@@ -119,23 +119,6 @@ Run:
 python deep_research_agent.py
 ```
 
-### Sample Output
-
-```markdown
-# Research Report: CPU vs. GPU Architectures for AI Workloads
-
-## Introduction
-AI workloads demand high computational power, making CPU and GPU architectures pivotal.
-
-## Findings
-- **CPUs**: Ideal for sequential tasks and data preprocessing.
-- **GPUs**: Excel in parallel processing, accelerating deep learning training.
-- **Hybrid Systems**: Combine CPUs and GPUs for optimal performance.
-
-## Conclusion
-GPUs dominate AI training, while CPUs support preprocessing and inference.
-```
-
 ## Project Structure
 
 ```
