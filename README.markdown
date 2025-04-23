@@ -42,8 +42,8 @@ Click to expand
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/deep-research-agent.git
-   cd deep-research-agent
+   git clone https://github.com/AkashKoley012/Deep-Research-Agent
+   cd Deep-Research-Agent
    ```
 
 2. **Create a Virtual Environment**:
@@ -82,16 +82,6 @@ Click to expand
    echo "OPENAI_API_KEY=your_openai_api_key" > .env
    echo "TAVILY_API_KEY=your_tavily_api_key" >> .env
    ```
-
-5. **Verify Setup**:
-
-   ```bash
-   pytest tests/test_agent.py
-   ```
-
-## Usage Examples
-
-Click to expand
 
 ### Default Query
 
@@ -133,18 +123,7 @@ deep-research-agent/
 │   └── explanation.pdf    # Detailed explanation
 └── .gitignore             # Excludes .env, __pycache__, etc.
 ```
-
-## Testing
-
-Run tests:
-
-```bash
-pytest tests/test_agent.py
-```
-
-Tests verify that `run_research` produces a non-empty draft.
-
 ## Author
 
-\[Your Name\]\
+Akash Koley\
 Licensed under MIT.
