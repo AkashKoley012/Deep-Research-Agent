@@ -144,32 +144,6 @@ pytest tests/test_agent.py
 
 Tests verify that `run_research` produces a non-empty draft.
 
-## Code Formatting
-
-Format code:
-
-```bash
-black .
-```
-
-## Submission Details
-
-Submitted for Kairon’s qualifying assignment (due April 26, 2025). Includes:
-
-- Source code (`deep_research_agent.py`).
-- Dependencies (`requirements.txt`).
-- Documentation (`docs/explanation.pdf`).
-- Setup guide (this `README.md`).
-
-Contact: `contact@kairon.co.in`.
-
-## Potential Improvements
-
-- **Advanced Filtering**: Use embeddings for semantic relevance.
-- **Validation Agent**: Add human-in-the-loop review.
-- **Parallel Queries**: Run multiple Tavily searches concurrently.
-- **Additional Tools**: Integrate arXiv or Wikipedia search.
-
 ## Author
 
 \[Your Name\]\
